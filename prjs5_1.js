@@ -1,0 +1,18 @@
+var paycheck = 2000;
+document.write(paycheck);
+document.write("<br />");
+paycheck = 4000;
+document.write(paycheck);
+document.write("<br />");
+paycheck -= 500;
+document.write(paycheck);
+document.write("<br />");
+paycheck -= paycheck;
+document.write(paycheck);
+document.write("<br />");
+paycheck += 500;
+document.write(paycheck);
+document.write("<br />");
+paycheck -= 80; 
+document.write(paycheck);
+document.write("<br />");
